@@ -1,0 +1,13 @@
+
+
+// Grid Containers
+$container:                                     100% !default;
+$container-m:                                   720px !default;
+$container-l:                                   960px !default;
+$container-xl:                                  1120px !default;
+
+// Responsive Breakpoints
+$breakpoint-m:                                  ($container-m + 20) !default;
+$breakpoint-l:                                  ($container-l + 20) !default;
+$breakpoint-xl:                                 ($container-xl + 20) !default;
+

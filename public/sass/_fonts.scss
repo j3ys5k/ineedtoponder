@@ -1,0 +1,177 @@
+// *************************************
+//
+//  Fonts and Typography
+//
+// *************************************
+
+//---------------------------
+// Font Imports
+//---------------------------
+
+@font-face {
+  font-family: 'fauxt-bold';
+  src: url('../fonts/fauxt-bold.woff2') format('woff2'),
+       url('../fonts/fauxt-bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+@font-face {
+  font-family: 'fauxt-medium';
+  src: url('../fonts/fauxt-medium-webfont.woff2') format('woff2'),
+       url('../fonts/fauxt-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'franklingothic-book';
+  src: url('../fonts/franklingothic-book-webfont.woff2') format('woff2'),
+       url('../fonts/franklingothic-book-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+//---------------------------
+// Font Families
+//---------------------------
+
+
+$titleFont-bold: 'fauxt-bold',arial, sans-serif;
+$titleFont-medium: 'fauxt-medium',arial, sans-serif;
+$contentFont-franklin: 'franklingothic-book', arial, sans-serif;
+
+
+//---------------------------
+// Font Sizing
+//---------------------------
+
+
+$base-font-size:16px;
+
+// Body
+body {
+
+  @include font-size($base-font-size);
+  line-height:1.6em;
+}
+
+// Paragraph
+//p { margin: 0 0 20px 0; }
+
+p, ul, ol {
+   font-family:$contentFont-franklin;
+   @include font-size(20);
+   @include line-height(31);
+}
+
+li ul, li ol {
+	margin-top:1.2em;
+}
+
+// Links
+a {
+  color: $link-color;
+  text-decoration: underline;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  &:active, &:hover {
+    //color: $base-link-hover-color;
+    outline-width: 0;
+    text-decoration: none;
+  }
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: $titleFont-medium;
+  
+  
+}
+
+h1 {
+  @include font-size(40);
+ // color:$bluegreen-dark;
+ 
+  
+
+ 
+}
+h2 {
+  @include font-size(32); //24
+  //color:$bluegreen;
+ 
+}
+h3 {
+    @include font-size(23); //18
+    //color:$bluegreen;
+}
+h4{
+ 
+}
+h5 {
+ 
+}
+
+
+
+// Bold and Strong
+b, strong, .strong { font-weight: 700; }
+
+// Italics
+em, .em { font-style: italic; }
+
+// Abbreviation
+abbr[title], .abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  text-decoration: underline dotted;
+}
+
+// Definition
+dfn { font-style: italic; }
+
+// Small
+small, .small {
+  @include font-size(13);
+  @include line-height(16);
+}
+
+// Mark
+mark, .mark {
+  background-color: #ff0;
+  color: #000;
+}
+
+// Sub and Sup
+sub, .sub, sup, .sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+sub, .sub { bottom: -0.25em; }
+sup, .sup { top: -0.5em; }
+
+// Del
+del, .del { text-decoration: line-through; }
+
+// Images
+figure { margin: 1em 40px; }
+
+// Horizontal Rules
+hr, .hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 1px;
+  background: #eee;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+

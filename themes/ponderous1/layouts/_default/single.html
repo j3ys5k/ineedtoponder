@@ -1,0 +1,19 @@
+
+{{ partial "header" . }}
+
+<section>
+    <div class="container">
+        
+        
+                <h1> <a href="{{ .Permalink }}">{{.Title}}</a></h1>
+                <p class="description">{{.Params.Description}}</p>
+                <p class="author">By {{.Params.Author}}</p>
+                <p class="date">{{.Date}}</p>
+                {{.Content}}
+                <hr>
+       
+      
+    </div>
+  </section>
+
+{{ partial "footer" . }}

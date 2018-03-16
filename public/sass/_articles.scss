@@ -1,0 +1,31 @@
+// *************************************
+//
+//  Article Styles
+//
+// *************************************
+
+
+.description {
+    font-style:italic;
+    margin-top:0; 
+    color:grey;
+
+}
+
+.author {
+   font-family:$titleFont-medium;
+   color:black; 
+   margin-top:0;
+   margin-bottom:0;
+   font-weight:bold;
+}
+
+.date {
+    @include font-size(18);
+    margin-top:0;
+}
+
+hr {
+    margin-top: 2.6rem;
+    background-color:#c3c3c3;
+}

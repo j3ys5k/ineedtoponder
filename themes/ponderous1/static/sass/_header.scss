@@ -1,0 +1,30 @@
+// *************************************
+//
+//  Header
+//
+// *************************************
+
+
+.header { 
+    background-color:black;
+    padding:$b-vspace 0  $b-vspace 0;
+} 
+.headerTitle {
+    text-align:center;
+    font-size:60px;
+    font-family:$titleFont-bold;
+    text-transform:uppercase;
+    color:white;
+    margin: 0;
+}
+
+.headerSubTitle {
+    @include font-size(17);
+    @include line-height(28);
+    text-align:center;
+    color:#89bdcc;
+    font-style:italic;
+    margin-top:1rem;
+
+}
+

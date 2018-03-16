@@ -1,0 +1,4 @@
+baseURL = "/"
+title = "I Need to Ponder"
+theme = "ponderous1" 
+MetaDataFormat = "toml"
