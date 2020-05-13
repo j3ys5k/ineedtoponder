@@ -27,14 +27,36 @@
 
 }
 
+
 @font-face {
-  font-family: 'franklingothic-book';
-  src: url('../fonts/franklingothic-book-webfont.woff2') format('woff2'),
-       url('../fonts/franklingothic-book-webfont.woff') format('woff');
+  font-family: 'gilroy-light';
+  src: url('../fonts/gilroy-light-webfont.woff2') format('woff2'),
+       url('../fonts/gilroy-light-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 
 }
+
+@font-face {
+  font-family: 'freesans';
+  src: url('../fonts/freesans-webfont.woff2') format('woff2'),
+       url('../fonts/freesans-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'selawik-light';
+  src: url('../fonts/Selawik-Light.woff2') format('woff2'),
+       url('../fonts/Selawik-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
 
 
 //---------------------------
@@ -43,8 +65,8 @@
 
 
 $titleFont-bold: 'fauxt-bold',arial, sans-serif;
-$titleFont-medium: 'fauxt-medium',arial, sans-serif;
-$contentFont-franklin: 'franklingothic-book', arial, sans-serif;
+$titleFont-medium: 'freesans',sans-serif;
+$contentFont: 'selawik-light', sans-serif;
 
 
 //---------------------------
@@ -65,7 +87,7 @@ body {
 //p { margin: 0 0 20px 0; }
 
 p, ul, ol {
-   font-family:$contentFont-franklin;
+   font-family:$contentFont;
    @include font-size(20);
    @include line-height(31);
 }
@@ -90,12 +112,20 @@ a {
 // Headings
 h1, h2, h3, h4, h5, h6 {
   font-family: $titleFont-medium;
-  
-  
+  a {
+    text-decoration:none;
+    color:$dark-gray;
+    &:hover {
+      text-decoration:underline;
+    }
+  }
+
 }
 
 h1 {
-  @include font-size(40);
+  @include font-size(36);
+  font-weight:normal;
+  line-height:1.25em;
  // color:$bluegreen-dark;
  
   
@@ -103,12 +133,15 @@ h1 {
  
 }
 h2 {
-  @include font-size(32); //24
+  @include font-size(30); //24
+  line-height:1.24em;
+  font-weight:normal;
   //color:$bluegreen;
  
 }
 h3 {
     @include font-size(23); //18
+    font-weight:normal;
     //color:$bluegreen;
 }
 h4{

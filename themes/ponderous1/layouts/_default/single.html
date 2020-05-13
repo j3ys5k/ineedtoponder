@@ -8,7 +8,7 @@
                 <h1> <a href="{{ .Permalink }}">{{.Title}}</a></h1>
                 <p class="description">{{.Params.Description}}</p>
                 <p class="author">By {{.Params.Author}}</p>
-                <p class="date">{{.Date}}</p>
+                <p class="date">{{.Date.Format "Jan 1, 2006"}}</p>
                 {{.Content}}
                 <hr>
        

@@ -6,9 +6,11 @@
 
 
 .header { 
+    background: black url("/images/bg-image.jpg") repeat-x center; 
     background-color:black;
-    padding:$b-vspace 0  $b-vspace 0;
+    padding:$b-vspace-m 0  $b-vspace-m 0;
 } 
+
 .headerTitle {
     text-align:center;
     font-size:60px;

@@ -1,7 +1,7 @@
 ---
-seotitle: "H1 Title Text"
-title: "H1 Title Text"
-date: 2018-02-05T17:31:29-05:00
+seotitle: "Test Post 1"
+title: "Test Post 1"
+date: 2018-02-03
 author: "James Semczuk"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
 ---

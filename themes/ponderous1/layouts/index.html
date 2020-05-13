@@ -4,16 +4,27 @@
 		<section>
 			<div class="container">
 				
-				{{ range first 10 .Data.Pages }}
+				{{ range (.Paginator 2).Pages }}
 						<h1> <a href="{{ .Permalink }}">{{.Title}}</a></h1>
 						<p class="description">{{.Params.Description}}</p>
 						<p class="author">By {{.Params.Author}}</p>
-						<p class="date">{{.Date}}</p>
+						<p class="date">{{.Date.Format "Jan 1, 2006"}}</p>
 						{{.Content}}
 						<hr>
 				{{ end }}
 			  
 			</div>
-		  </section>
+		</section>
+		<section>
+			<div class="container pagination">
+				
+				{{ if .Paginator.HasPrev }}
+					<a class="pageButton l" href="{{ .Paginator.Prev.URL }}">< Newer Posts</a>
+				{{ end }}
+				{{ if .Paginator.HasNext }}
+					<a class="pageButton r" href="{{ .Paginator.Next.URL }}">Older Posts ></a>
+				{{ end }}
+			</div>
+		</section> 
 
 {{ partial "footer" . }}

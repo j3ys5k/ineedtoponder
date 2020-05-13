@@ -40,11 +40,11 @@ svg:not(:root) {
   margin-top: 1.6em; }
 
 .container {
-  max-width: 1000px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 10px;
-  padding-right: 10px; }
+  padding-left: 20px;
+  padding-right: 20px; }
 
 .col + .col {
   margin-top: 0; }
@@ -59,6 +59,9 @@ svg:not(:root) {
   margin-top: 0; }
 
 li + li {
+  margin-top: 0; }
+
+.pageButton {
   margin-top: 0; }
 
 .homepage h1, .homepage h2, .homepage h3, .homepage h4, .homepage h5, .homepage h6 {
@@ -421,7 +424,7 @@ li ul, li ol {
   margin-top: 1.2em; }
 
 a {
-  color: #2e9cb8;
+  color: #bb2dc8;
   text-decoration: underline;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
@@ -431,6 +434,11 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "fauxt-medium", arial, sans-serif; }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
+    color: #333332; }
+    h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+      text-decoration: underline; }
 
 h1 {
   font-size: 40px;
@@ -496,8 +504,9 @@ hr, .hr {
   margin-bottom: 20px; }
 
 .header {
+  background: black url("/images/bg-image.jpg") repeat-x center;
   background-color: black;
-  padding: 1.61em 0 1.61em 0; }
+  padding: 2.427em 0 2.427em 0; }
 
 .headerTitle {
   text-align: center;
@@ -520,7 +529,8 @@ hr, .hr {
 .menu {
   background-color: black;
   position: fixed;
-  width: 100%; }
+  width: 100%;
+  display: none; }
 
 .menuText {
   color: white;
@@ -537,6 +547,9 @@ hr, .hr {
 
 .menuLine {
   fill: #FFFFFF; }
+
+a {
+  color: #bb2dc8; }
 
 .description {
   font-style: italic;
@@ -558,6 +571,35 @@ hr, .hr {
 hr {
   margin-top: 2.6rem;
   background-color: #c3c3c3; }
+
+.pagination {
+  padding: 0.809em 2% 1.61em 2%;
+  display: flex; }
+
+.pageButton {
+  color: black;
+  font-family: "fauxt-medium", arial, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  border: 1px solid black;
+  padding: 6px;
+  text-decoration: none; }
+  .pageButton:hover {
+    text-decoration: underline; }
+  .pageButton.l {
+    margin-right: auto; }
+  .pageButton.r {
+    margin-left: auto; }
+
+.footer {
+  height: 55px;
+  background-color: #333332;
+  color: white; }
+  .footer p {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    line-height: 55px; }
 
 .no-margin {
   margin: 0; }
