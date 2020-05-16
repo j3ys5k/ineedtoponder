@@ -4,7 +4,7 @@ backend:
 
 
 publish_mode: editorial_workflow
-
+site_url: https://www.ineedtoponder.com
 # Media file storage locations
 media_folder: images/ 
 public_folder: /images/
