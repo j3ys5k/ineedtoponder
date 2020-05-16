@@ -28,7 +28,13 @@ $base-vspace:1.6em;
 [class^="col-"], [class*=" col-"] {margin-top:0;}
 .menu + *, .menu {margin-top:0;}
 .section + .section {margin-top:0;}
-li + li {margin-top:0;}
+li + li {
+	margin-top:0;
+}
+
+li {
+	margin-bottom:1em;
+}
 .pageButton {margin-top:0;}
 
 
@@ -38,9 +44,7 @@ li + li {margin-top:0;}
 
 .header__contact {margin-top:0;}
 
-h1, h2, h3, h4, h5, h6 {
-  line-height:1em;
- }
+
 
 .footer {
 	margin-top:0;
