@@ -3,3 +3,11 @@ title = "I Need to Ponder"
 theme = "ponderous1" 
 MetaDataFormat = "toml"
 Paginate = 10
+
+params:
+  description: A blog dedicated to the power of ideas, the importance of clarity, the necessity of nuance, and a love for deeply thinking about the world.
+  images:
+  - site-feature-image.jpg
+  title: I need to Ponder
+taxonomies:
+  series: series

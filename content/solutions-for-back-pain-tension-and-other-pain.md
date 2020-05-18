@@ -2,15 +2,17 @@
 seotitle: Solutions for Back Pain, Tension and Other Pain
 title: " Solutions for Back Pain, Tension and Other Pain"
 author: James Semczuk
-date: 2019-03-17T00:00:00.000Z
+date: 2020-05-18T00:00:00.000Z
 description: "A guide to what is effective in regards to back pain and
-  tension.  Compiled from years of research and first hand experience. "
+  tension. Compiled from years of research and first hand experience."
+images: 
+-solutions-backpain.jpg"
 ---
 ![Back Pain](/images/solutions-backpain.jpg)
 
 ## The Purpose of This Article
 
-*Although I use the word ‘Back’ Pain… I’m going to be using it as an umbrella term for muscle, neck, and shoulder pain as well. For years now I’ve struggled with a lot of pain and tension largely from not moving enough. And so have a lot of you. Nearly everyone I’ve talked to who works a desk job at some point been troubled with back, neck, shoulder, wrist pain, or just felt crappy from being immobile for long periods.*
+*Although I use the word ‘Back’ Pain… I’m going to be using it as an umbrella term for muscle, neck, and shoulder pain as well. For years now I’ve struggled with a lot of pain and tension largely from not moving enough. And so have a lot of you. Nearly everyone I’ve talked to who works a desk job at some point has been troubled with back, neck, shoulder, wrist pain, or just felt crappy from being immobile for long periods.*
 
 *I’ve seen so many people just resign themselves to living with pain (“I guess I’m just old now!”), or worse chase their tails trying ineffective and often expensive solutions only to end up right back where they started. I’ve been researching it for a long time and I wanted to put together this condensed guide for others to easily get to some of the more effective (and cost effective) solutions, without having to wade through all the misinformation out there. Unfortunately there’s not really a pre-defined universally agreed process that someone can go through who has back pain. So this article will attempt to put together a practical working solution until we find out something better.*
 
@@ -44,10 +46,10 @@ Painscience.com's primary approach revolves around 3 separate things that come t
 
    * Here's a [list of common trigger points to massage](https://www.painscience.com/articles/spot-01-suboccipitals.php#all_spots) - (don't need to do all of them, but focus on ones that contribute to your own problem areas). 
    * Here's a link to a [good massage ball](https://www.yogatuneup.com/alpha-ball/?from=GS&wickedsource=google&wickedid=57728621856&wtm_term=&wdevice=c&wtm_campaign=202047456&wtm_content=9272142096&gclid=CMLdwKL7xcwCFQcfhgodFiIGZg) that gets at the points better than your hands. It's great to do it against a wall or in a door frame.
-2. **Use Mobilizations** - **(repeated simple body movements)**  to keep future tension at bay and to calm down currently agitated muscles.  The trigger points reset the muscles, but to maintain the looseness from there, you need body movement. You basically do high reps of very simple low intensity movements to loosen a muscle.  The high reps are key. You need anywhere from 30 - 70 reps depending on the person.  40 is probably a good number to shoot for until you get a feel for how much you need. 
+2. **Use Mobilizations** - **(repeated simple body movements)** - to keep future tension at bay and to calm down currently agitated muscles.  The trigger points reset the muscles, but to maintain the looseness from there, you need body movement. You basically do high reps of very simple low intensity movements to loosen a muscle.  The high reps are key. You need anywhere from 30 - 70 reps depending on the person.  40 is probably a good number to shoot for until you get a feel for how much you need. 
 
    * Here's an  In depth [article on mobilizations](https://www.painscience.com/articles/mobilizing.php) and how to do them. 
-   * A [DVD routine of mobilizations](https://ymaa.com/publishing/dvd/qigong/meridian_qigong_DVD) about $40 .This one is one of the best routines I've found for loosening the whole body, and you get a lot of bonus information on acupressure which feels awesome. 
+   * A [DVD routine of mobilizations](https://ymaa.com/publishing/dvd/qigong/meridian_qigong_DVD) (about $40) .This one is one of the best routines I've found for loosening the whole body, and you get a lot of bonus information on acupressure which feels awesome. 
    * More Mobilizations from Tai chi. The 1st video you get in their [1 month Free Trial](https://www.discovertaiji.com/en/register) has some really great ones you won't get elsewhere.  
 3. **Mobilize at a certain frequency for them to stay effective** -.  You need a 20:1 ratio.  Basically if you are in a static (non moving position) for 20 mins, you need at least 1 minute of mobilization to ward off tension and pain. 
 
