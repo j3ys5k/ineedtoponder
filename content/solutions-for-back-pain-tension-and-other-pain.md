@@ -1,9 +1,10 @@
 ---
-seotitle: "Solutions for Back Pain, Tension and Other Pain"
+seotitle: Solutions for Back Pain, Tension and Other Pain
 title: " Solutions for Back Pain, Tension and Other Pain"
-date: 2019-03-17
-author: "James Semczuk"
-description: "A guide to what is more effective in regards to back pain and tension.  Compiled from years of research and first hand experience. "
+author: James Semczuk
+date: 2019-03-17T00:00:00.000Z
+description: "A guide to what is effective in regards to back pain and
+  tension.  Compiled from years of research and first hand experience. "
 ---
 
 ![Back Pain](/images/solutions-backpain.jpg)
