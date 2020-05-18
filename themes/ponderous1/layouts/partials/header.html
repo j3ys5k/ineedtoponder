@@ -3,10 +3,18 @@
 
 <head>
 	<!-- Favicon Link -->
+	<link rel="Favicon" type="img/png" href="/images/favicon.png">
 
-	<link rel="Favicon" type="img/png" href="/favicon.png">
+	<!-- Title Tag / Meta Desc -->
+	{{ if .IsHome -}}
+	<title>I Need to Ponder - Blog</title>
+	<meta name="description" content="A blog dedicated to the power of ideas, the importance of clarity, the necessity
+		of nuance, and a love for deeply thinking about the world.">
+	{{- else -}}
+	<title>{{ .Title }} – {{ .Site.Title }}</title>
+	<meta name="description" content="{{.Params.Description}}">
+	{{- end }}
 
-	<title>I Need to Ponder Blog</title>
 
 	<!-- CSS Link (links start in 'static' folder) -->
 
@@ -41,7 +49,7 @@
 	<header class="header">
 		<div class="container">
 
-			<h1 class="headerTitle">I Need To Ponder</h1>
+			<h1 class="headerTitle"><a href="/">I Need To Ponder</a></h1>
 			<p class="headerSubTitle">A blog dedicated to the power of ideas, the importance of clarity, the necessity
 				of nuance, and a love for deeply thinking about the world. </p>
 		</div>

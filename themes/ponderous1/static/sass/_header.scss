@@ -18,6 +18,16 @@
     text-transform:uppercase;
     color:white;
     margin: 0;
+
+    a {
+        color:white;
+        text-decoration:none;
+
+        &:hover {
+            color:white;
+            text-decoration:none;
+        }
+    }
 }
 
 .headerSubTitle {

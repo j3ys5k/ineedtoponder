@@ -538,6 +538,12 @@ li {
   text-transform: uppercase;
   color: white;
   margin: 0; }
+  .headerTitle a {
+    color: white;
+    text-decoration: none; }
+    .headerTitle a:hover {
+      color: white;
+      text-decoration: none; }
 
 .headerSubTitle {
   font-size: 17px;
