@@ -140,9 +140,7 @@ Look into Anti inflammatories such as Spirulina, Tumeric w/ Black Pepper to redu
 
 Sleep apnea or poor sleep in general can also cause high levels of inflammation that can increase pain.
 
-## \
-
-Experimental Research
+## Experimental Research
 
 [Kinetix](https://mobilitymastery.com/kinetix/)- is a newer form of therapy that has the practitioner pin your muscle where a trigger point is and then have you move at the same time. It’s supposed to get dramatic results and break up tension more comprehensively than just trigger point massage. I haven’t got to try it yet though, and they are currently only in Colorado.  Link to her foundational technique -[https://www.youtube.com/watch?v=_JrBlCfsWJY&t=206s](https://www.youtube.com/watch?v=_JrBlCfsWJY&t=206s)
 
