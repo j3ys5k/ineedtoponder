@@ -8,21 +8,6 @@
   </url>
   
   <url>
-    <loc>/test-post3/</loc>
-    <lastmod>2018-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/test-post2/</loc>
-    <lastmod>2018-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/test-post/</loc>
-    <lastmod>2018-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>

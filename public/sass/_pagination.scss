@@ -17,9 +17,10 @@
     //font-family:$titleFont-bold;
     font-weight:bold;
     font-size: 18px; 
-    border: 1px solid black;
+    border: 1px solid $gray;
     padding:6px;
     text-decoration:none;
+    padding: 16px 20px 12px 20px;
 
     &:hover {
         text-decoration:underline;

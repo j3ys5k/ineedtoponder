@@ -4,4 +4,6 @@
 //
 // *************************************
 
-a {color:$link-color; }
+a {color:$link-color;
+   overflow-wrap: break-word;
+}

@@ -577,7 +577,8 @@ li {
   fill: #FFFFFF; }
 
 a {
-  color: #bb2dc8; }
+  color: #bb2dc8;
+  overflow-wrap: break-word; }
 
 .main-content {
   padding: 1.4em 0 1.4em 0; }

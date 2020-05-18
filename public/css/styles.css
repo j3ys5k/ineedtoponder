@@ -36,6 +36,139 @@ img {
 svg:not(:root) {
   overflow: hidden; }
 
+@font-face {
+  font-family: 'fauxt-bold';
+  src: url("../fonts/fauxt-bold.woff2") format("woff2"), url("../fonts/fauxt-bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'fauxt-medium';
+  src: url("../fonts/fauxt-medium-webfont.woff2") format("woff2"), url("../fonts/fauxt-medium-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'gilroy-light';
+  src: url("../fonts/gilroy-light-webfont.woff2") format("woff2"), url("../fonts/gilroy-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'freesans';
+  src: url("../fonts/freesans-webfont.woff2") format("woff2"), url("../fonts/freesans-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'selawik-light';
+  src: url("../fonts/Selawik-Light.woff2") format("woff2"), url("../fonts/Selawik-Light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal; }
+body {
+  font-size: 16pxpx;
+  font-size: 1pxrem;
+  line-height: 1.6em; }
+
+p, ul, ol {
+  font-family: "selawik-light", sans-serif;
+  font-size: 20px;
+  font-size: 1.25rem;
+  line-height: 35px;
+  line-height: 2.1875rem;
+  color: #252525;
+  letter-spacing: 0.032em; }
+
+li ul, li ol {
+  margin-top: 1.2em; }
+
+a {
+  color: #bb2dc8;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+  a:active, a:hover {
+    outline-width: 0;
+    text-decoration: underline; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "freesans", sans-serif;
+  letter-spacing: 0.040em;
+  line-height: 1em; }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    text-decoration: none;
+    color: #3c3c3b; }
+    h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+      text-decoration: underline; }
+
+h1 {
+  font-size: 36px;
+  font-size: 2.25rem;
+  font-weight: normal;
+  line-height: 1.25em;
+  margin-top: 0;
+  margin-bottom: 0.25em; }
+
+h2 {
+  font-size: 30px;
+  font-size: 1.875rem;
+  line-height: 39px;
+  font-weight: normal;
+  color: #3c3c3b; }
+
+h3 {
+  font-size: 23px;
+  font-size: 1.4375rem;
+  font-weight: normal;
+  color: #3c3c3b; }
+
+b, strong, .strong {
+  font-weight: 700; }
+
+em, .em {
+  font-style: italic; }
+
+abbr[title], .abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  text-decoration: underline dotted; }
+
+dfn {
+  font-style: italic; }
+
+small, .small {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 16px;
+  line-height: 1rem; }
+
+mark, .mark {
+  background-color: #ff0;
+  color: #000; }
+
+sub, .sub, sup, .sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sub, .sub {
+  bottom: -0.25em; }
+
+sup, .sup {
+  top: -0.5em; }
+
+del, .del {
+  text-decoration: line-through; }
+
+figure {
+  margin: 1em 40px; }
+
+hr, .hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 1px;
+  background: #eee;
+  border: 0;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
 * + * {
   margin-top: 1.6em; }
 
@@ -61,6 +194,9 @@ svg:not(:root) {
 li + li {
   margin-top: 0; }
 
+li {
+  margin-bottom: 1em; }
+
 .pageButton {
   margin-top: 0; }
 
@@ -69,9 +205,6 @@ li + li {
 
 .header__contact {
   margin-top: 0; }
-
-h1, h2, h3, h4, h5, h6 {
-  line-height: 1em; }
 
 .footer {
   margin-top: 0; }
@@ -393,128 +526,24 @@ h1, h2, h3, h4, h5, h6 {
 
   .desktop-mb--xs {
     margin-bottom: 0.404em; } }
-@font-face {
-  font-family: 'fauxt-bold';
-  src: url("../fonts/fauxt-bold.woff2") format("woff2"), url("../fonts/fauxt-bold.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'fauxt-medium';
-  src: url("../fonts/fauxt-medium-webfont.woff2") format("woff2"), url("../fonts/fauxt-medium-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-@font-face {
-  font-family: 'franklingothic-book';
-  src: url("../fonts/franklingothic-book-webfont.woff2") format("woff2"), url("../fonts/franklingothic-book-webfont.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
-body {
-  font-size: 16pxpx;
-  font-size: 1pxrem;
-  line-height: 1.6em; }
-
-p, ul, ol {
-  font-family: "franklingothic-book", arial, sans-serif;
-  font-size: 20px;
-  font-size: 1.25rem;
-  line-height: 31px;
-  line-height: 1.9375rem; }
-
-li ul, li ol {
-  margin-top: 1.2em; }
-
-a {
-  color: #bb2dc8;
-  text-decoration: underline;
-  background-color: transparent;
-  -webkit-text-decoration-skip: objects; }
-  a:active, a:hover {
-    outline-width: 0;
-    text-decoration: none; }
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "fauxt-medium", arial, sans-serif; }
-  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-    text-decoration: none;
-    color: #333332; }
-    h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
-      text-decoration: underline; }
-
-h1 {
-  font-size: 40px;
-  font-size: 2.5rem; }
-
-h2 {
-  font-size: 32px;
-  font-size: 2rem; }
-
-h3 {
-  font-size: 23px;
-  font-size: 1.4375rem; }
-
-b, strong, .strong {
-  font-weight: 700; }
-
-em, .em {
-  font-style: italic; }
-
-abbr[title], .abbr[title] {
-  border-bottom: none;
-  text-decoration: underline;
-  text-decoration: underline dotted; }
-
-dfn {
-  font-style: italic; }
-
-small, .small {
-  font-size: 13px;
-  font-size: 0.8125rem;
-  line-height: 16px;
-  line-height: 1rem; }
-
-mark, .mark {
-  background-color: #ff0;
-  color: #000; }
-
-sub, .sub, sup, .sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline; }
-
-sub, .sub {
-  bottom: -0.25em; }
-
-sup, .sup {
-  top: -0.5em; }
-
-del, .del {
-  text-decoration: line-through; }
-
-figure {
-  margin: 1em 40px; }
-
-hr, .hr {
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  height: 1px;
-  background: #eee;
-  border: 0;
-  margin-top: 20px;
-  margin-bottom: 20px; }
-
 .header {
   background: black url("/images/bg-image.jpg") repeat-x center;
   background-color: black;
-  padding: 2.427em 0 2.427em 0; }
+  padding: 80px 0  50px 0; }
 
 .headerTitle {
   text-align: center;
-  font-size: 60px;
+  font-size: 69px;
   font-family: "fauxt-bold", arial, sans-serif;
   text-transform: uppercase;
   color: white;
   margin: 0; }
+  .headerTitle a {
+    color: white;
+    text-decoration: none; }
+    .headerTitle a:hover {
+      color: white;
+      text-decoration: none; }
 
 .headerSubTitle {
   font-size: 17px;
@@ -522,8 +551,7 @@ hr, .hr {
   line-height: 28px;
   line-height: 1.75rem;
   text-align: center;
-  color: #89bdcc;
-  font-style: italic;
+  color: white;
   margin-top: 1rem; }
 
 .menu {
@@ -534,7 +562,7 @@ hr, .hr {
 
 .menuText {
   color: white;
-  font-family: "franklingothic-book", arial, sans-serif;
+  font-family: "selawik-light", sans-serif;
   line-height: 24px;
   font-size: 21px;
   font-size: 1.3125rem;
@@ -549,28 +577,36 @@ hr, .hr {
   fill: #FFFFFF; }
 
 a {
-  color: #bb2dc8; }
+  color: #bb2dc8;
+  overflow-wrap: break-word; }
+
+.main-content {
+  padding: 1.4em 0 1.4em 0; }
 
 .description {
-  font-style: italic;
   margin-top: 0;
-  color: grey; }
+  color: #808280; }
 
 .author {
-  font-family: "fauxt-medium", arial, sans-serif;
+  font-family: "freesans", sans-serif;
   color: black;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: bold; }
+  font-weight: bold;
+  font-size: 17px; }
 
 .date {
-  font-size: 18px;
-  font-size: 1.125rem;
+  font-size: 17px;
+  font-size: 1.0625rem;
   margin-top: 0; }
 
 hr {
-  margin-top: 2.6rem;
+  margin-top: 3.6em;
+  margin-bottom: 3.6em;
   background-color: #c3c3c3; }
+
+img {
+  max-width: 100%; }
 
 .pagination {
   padding: 0.809em 2% 1.61em 2%;
@@ -578,12 +614,13 @@ hr {
 
 .pageButton {
   color: black;
-  font-family: "fauxt-medium", arial, sans-serif;
+  font-family: "freesans", sans-serif;
   font-weight: bold;
   font-size: 18px;
-  border: 1px solid black;
+  border: 1px solid #808280;
   padding: 6px;
-  text-decoration: none; }
+  text-decoration: none;
+  padding: 16px 20px 12px 20px; }
   .pageButton:hover {
     text-decoration: underline; }
   .pageButton.l {
@@ -593,7 +630,7 @@ hr {
 
 .footer {
   height: 55px;
-  background-color: #333332;
+  background-color: #3c3c3b;
   color: white; }
   .footer p {
     color: white;
@@ -1110,3 +1147,5 @@ hr {
 
   .no-push-xl, .no-pull-xl {
     left: 0; } }
+
+/*# sourceMappingURL=styles.css.map */

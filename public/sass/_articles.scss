@@ -5,10 +5,15 @@
 // *************************************
 
 
+.main-content {
+    padding: 1.4em 0 1.4em 0;
+}
+
 .description {
-    font-style:italic;
+   
     margin-top:0; 
-    color:grey;
+    color:$gray;
+
 
 }
 
@@ -18,14 +23,21 @@
    margin-top:0;
    margin-bottom:0;
    font-weight:bold;
+   font-size:17px;
 }
 
 .date {
-    @include font-size(18);
+    @include font-size(17);
     margin-top:0;
 }
 
 hr {
-    margin-top: 2.6rem;
+    margin-top: 3.6em;
+    margin-bottom: 3.6em;
     background-color:#c3c3c3;
+}
+
+img {
+    
+    max-width:100%;
 }
