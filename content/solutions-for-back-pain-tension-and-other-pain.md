@@ -6,50 +6,49 @@ date: 2019-03-17T00:00:00.000Z
 description: "A guide to what is effective in regards to back pain and
   tension.  Compiled from years of research and first hand experience. "
 ---
-
-
 ![Back Pain](/images/solutions-backpain.jpg)
 
 ## The Purpose of This Article
 
-*Although I use the word 'Back' Pain… I'm going to be using it as an umbrella term for muscle, neck, and shoulder pain as well.   For years now I've struggled with a lot of pain and tension largely from not moving enough.  And so have a lot of you.  Nearly everyone I've talked to who works a desk job at some point been troubled with back, neck, shoulder,  wrist pain, or just felt crappy from being immobile for long periods. one two thre*
+*Although I use the word ‘Back’ Pain… I’m going to be using it as an umbrella term for muscle, neck, and shoulder pain as well. For years now I’ve struggled with a lot of pain and tension largely from not moving enough. And so have a lot of you. Nearly everyone I’ve talked to who works a desk job at some point been troubled with back, neck, shoulder, wrist pain, or just felt crappy from being immobile for long periods.*
 
- *I've seen so many people just resign themselves to living with pain, or worse chase their tails trying ineffective and often expensive solutions only to end up right back where they started.  I've been researching it a long time and I wanted to put together this condensed guide for others to easily get to some of the more effective (and cost effective) solutions, without having to wade through all the misinformation out there.   Unfortunately there's not really a pre-defined universally agreed process that someone can go through who has back pain.  So this article will attempt to put together a practical working solution until we find out something better.*
+*I’ve seen so many people just resign themselves to living with pain (“I guess I’m just old now!”), or worse chase their tails trying ineffective and often expensive solutions only to end up right back where they started. I’ve been researching it for a long time and I wanted to put together this condensed guide for others to easily get to some of the more effective (and cost effective) solutions, without having to wade through all the misinformation out there. Unfortunately there’s not really a pre-defined universally agreed process that someone can go through who has back pain. So this article will attempt to put together a practical working solution until we find out something better.*
 
-*The solutions in this article are primarily intended for people who have **NOT** suffered an injury.  Basically if you were otherwise healthy, and then started to get aches and pain and muscle tension from being immobile all day this article is for you.  Your pain and tension is probably caused by lack of movement and a few other related things.   If you suffered an injury like a car accident or sports injury and are getting pain, you may require a different approach with a professional.  (But some of these approaches may overlap with your treatment.)*
+*The solutions in this article are primarily intended for people who have NOT suffered an injury. Basically if you were otherwise healthy, and then started to get aches and pain and muscle tension and you are doing very little body movement each day, this article is for you. Your pain and tension is probably caused by lack of movement and a few other related things. If you suffered an injury like a car accident or sports injury and are getting pain, you may require a different approach with a professional. (But some of these approaches may complement and overlap with your treatment!)*
 
 ## Forget Everything You Currently Know About Back Pain!
 
-One of the most frustrating things about the topic is the wealth of misinformation out there.  Society tends to act like there's a one true solution for back pain, but really it's a lot more like cancer treatment.  We really don't have a good understanding of how it works and there's not one solution that works for everyone.  There's a lot of hearsay….and many things that don't work at all.  There's also a lot of stuff that only partially works.  
+One of the most frustrating things about the topic is the wealth of misinformation out there. Society tends to act like there's one true solution for back pain, but in reality it’s a lot more like cancer treatment. We really don’t have a good understanding of how it works and there’s not one solution that works for everyone. There’s a lot of hearsay ...and many things that don’t work at all. There’s also a ton of stuff that only partially works.
 
-So much of it is straight up false information, that I encourage everyone to just throw out everything they think they know about back pain and start over from scratch (Yes really.)  
+So much of what’s out there is straight up false information that I encourage everyone to just throw out everything they think they know about back pain and start over from scratch (Yes really!) .
 
-Otherwise people will tend to fixate on common things they've heard a repeated throughout our culture that don't actually work and it just gets in the way.  It's really that bad.
+Otherwise people will tend to fixate on common things they’ve heard repeated throughout our culture that don’t actually work and it just gets in the way. It really is that bad.
 
-And what's even worse than that, many medical professionals don't know what works either!  They often don't keep up with the science, are also just as prone to the cultural hearsay as all humans are,  and have vested interests in you staying with their (often expensive) approach.  You may go to a host of professionals such as chiropractors or physical therapists that all tell you different and contradictory information.  Where can you turn?
+And what’s even worse than that, many medical professionals don’t know what works either! They often don’t keep up with the science, are also just as prone to the cultural hearsay as all humans are, and have vested interests in you staying with their (often expensive) approach. You may go to a host of professionals such as chiropractors or physical therapists that all tell you different and contradictory information. Where can you turn?
 
 ## Painscience.com Might be the Best Overall Site on the Internet About Pain There Is
 
-As far as the internet goes, it's an absolutely terrible resource for information on pain and muscle tension.  It's full of contradictory and straight up false information.  But, If I had to turn to one site for information,[ http://www.painscience.com](http://www.painscience.com)  would be the one.   Here is a good [overall guide to the site](https://www.painscience.com/reading-guide-patients.php).
+As far as the internet goes, it’s an absolutely terrible resource for information on pain and muscle tension. It’s full of contradictory and straight up false information. But, If I had to turn to one site for information, <http://www.painscience.com> would be the one. Here is a good [overall guide to the site](https://www.painscience.com/reading-guide-patients.php).
 
-The man who runs the site's sole job now is full time research into the topic of pain.  His tutorials go into extreme depth into what works and what doesn't.  He is on the front lines of this topic and his solutions have been much more effective and cheaper than others.  The only problem I'd say is he tends to throw out any approaches that haven't yet been tested yet. So he's not fully comprehensive.   Not all approaches have been tested equally, or at all.  But of the stuff that has been, he is a great resource.  
+The man who runs the site’s sole job now is full time research into the topic of pain. His tutorials go into extreme depth into what works and what doesn’t. He is on the front lines of this topic and his solutions have been much more effective and cheaper than others. The only problem I’d say is he tends to throw out any approaches that haven’t yet been tested yet. So he’s not fully comprehensive. Not all approaches have been tested equally, or at all. But of the stuff that has been, he is a great resource.
 
 ## Best Overall Solutions that Have Worked For Me
 
+Disclaimer: I have no affiliation with any of these sites or methods and receive no payment, but I have used each and every one and can personally vouch for it.
+
 ### Painscience.com's model (free)
 
-Painscience.com's primary approach revolves around 3 seperate things that come together.
+Painscience.com's primary approach revolves around 3 separate things that come together.
 
-1. **Massaging Out Trigger Points** -  trigger points are basically these areas of tension in muscles that need to get massaged out for at least 30 seconds  in order for the muscle to really loosen.  You can get at them yourself, or have someone else do it (A knowledgeable massage therapist can also help a lot here, but they won't be able to be with you day to day). 
+1. **Massaging Out Trigger Points** -  trigger points are basically these areas of tension in muscles that need to get massaged out for at least 30 seconds  in order for the muscle to really loosen.  You often cannot fully relax tight muscles without doing this every so often. You can get at them yourself, or have someone else do it (A knowledgeable massage therapist can also help a lot here, but they won't be able to be with you day to day). 
 
-   * Here's a [list of common trigger points to massage](https://www.painscience.com/articles/spot-01-suboccipitals.php#all_spots) -[ (don't need to do all of them, but focus on ones that contribute to your own problem areas) ](https://www.painscience.com/articles/spot-01-suboccipitals.php#all_spots). 
-   * Here's a link to a [good massage ball](https://www.yogatuneup.com/alpha-ball/?from=GS&wickedsource=google&wickedid=57728621856&wtm_term=&wdevice=c&wtm_campaign=202047456&wtm_content=9272142096&gclid=CMLdwKL7xcwCFQcfhgodFiIGZg) that gets at the points better than your hands. 
-2. **Use Mobilizations** - **(repeated simple body movements)**  to keep future tension at bay and to calm down currently agitated muscles.  You basically do high reps of very simple low intensity movements to loosen a muscle.  The high reps are key. You need anywhere from 30 - 70 reps depending on the person.  40 is probably a good number to shoot for until you get a feel for how much you need. 
+   * Here's a [list of common trigger points to massage](https://www.painscience.com/articles/spot-01-suboccipitals.php#all_spots) - (don't need to do all of them, but focus on ones that contribute to your own problem areas). 
+   * Here's a link to a [good massage ball](https://www.yogatuneup.com/alpha-ball/?from=GS&wickedsource=google&wickedid=57728621856&wtm_term=&wdevice=c&wtm_campaign=202047456&wtm_content=9272142096&gclid=CMLdwKL7xcwCFQcfhgodFiIGZg) that gets at the points better than your hands. It's great to do it against a wall or in a door frame.
+2. **Use Mobilizations** - **(repeated simple body movements)**  to keep future tension at bay and to calm down currently agitated muscles.  The trigger points reset the muscles, but to maintain the looseness from there, you need body movement. You basically do high reps of very simple low intensity movements to loosen a muscle.  The high reps are key. You need anywhere from 30 - 70 reps depending on the person.  40 is probably a good number to shoot for until you get a feel for how much you need. 
 
    * Here's an  In depth [article on mobilizations](https://www.painscience.com/articles/mobilizing.php) and how to do them. 
-   * A [DVD routine of mobilizations](https://ymaa.com/publishing/dvd/qigong/meridian_qigong_DVD) about $40 ...that works really well and loosen the entire body.  This one is a one of the best routines I've found for loosening the whole body, and you get a lot of bonus information on acupressure which feels awesome. 
-   * More Mobilizations from Tai chi. The 1st video you get in their [3 week free trial](http://www.discovertaiji.com/free-trial-registration/) has some really great ones you won't get elsewhere.  
-   * Mobilizations work better with Progressive Muscle Relaxation (see section below), the more you can consciously tell your muscles to relax while they are mobilizing the better they will work.  
+   * A [DVD routine of mobilizations](https://ymaa.com/publishing/dvd/qigong/meridian_qigong_DVD) about $40 .This one is one of the best routines I've found for loosening the whole body, and you get a lot of bonus information on acupressure which feels awesome. 
+   * More Mobilizations from Tai chi. The 1st video you get in their [1 month Free Trial](https://www.discovertaiji.com/en/register) has some really great ones you won't get elsewhere.  
 3. **Mobilize at a certain frequency for them to stay effective** -.  You need a 20:1 ratio.  Basically if you are in a static (non moving position) for 20 mins, you need at least 1 minute of mobilization to ward off tension and pain. 
 
    * Here's an in depth [article on how often you should mobilize](https://www.painscience.com/articles/microbreaking.php). 
@@ -58,7 +57,7 @@ You want to keep the cycle of all three things going. If I don't do one of the t
 
 ### What a routine might look like.
 
-So the overall approach would look like this.  I've been sitting for about 30 mins.   I get up and use a massage ball to work on 1- 2 trigger points near my most aggravated areas for about 30 seconds each.  Then I'll pick a problem area to do about 40 reps of a mobilization on each.  Then back to work.    Repeat at least once every 30 mins for best results.  When really jacked up do every 20 mins.  You don't need to repeatedly work trigger points each time.  I've found 1-3 times per day seems to be sufficient.  (I now also include some progressive muscle relaxation in this routine for my hips / neck / jaw as well.  See below) 
+So the overall approach would look like this. I’ve been sitting for about 30 mins. I get up and use a massage ball to work on 1- 2 trigger points near my most aggravated areas for about 30 seconds each. Then I’ll pick a problem area to do about 40 reps of a mobilization on each (while doing breathing and going into a meditative state from qi gong). Then back to work. Repeat at least once every 30 mins for best results. When really jacked up do every 20 mins. You don’t need to repeatedly work trigger points each time. I’ve found 1-3 times per day seems to be sufficient. (I now also include some progressive muscle relaxation in this routine for my hips / neck / jaw as well. See below)
 
 ## Don't Just Sit There ($40)
 
