@@ -6,7 +6,7 @@ author: "James Semczuk"
 description: "A guide to what is more effective in regards to back pain and tension.  Compiled from years of research and first hand experience. "
 ---
 
-
+![Back Pain](/images/solutions-backpain.jpg)
 
 
 ## The Purpose of This Article
@@ -82,10 +82,10 @@ Their basic approach is to switch positions as often as possible.  Ideally you w
 Along with making sure you move, it's good to make sure that when you are not moving you aren't putting yourself in positions that aggravate pain.  Alignment and ergonomics is important, but usually not as important as moving enough.  Postural alignment is a pretty deep subject and beyond the scope of this article… but in general  if you align yourself and your workstation similar to the following images, it should take care of a lot of the biggest offenders in terms of posture related pain problems.  The numbers aren't so important as having the actual lines line up with the points on your body.  
 
 
-![alt_text](images/Back-Pain0.png "image_tooltip")
+![Body ergonomic proportions](/images/ergonomics1.png "image_tooltip")
 
 
-![alt_text](images/Back-Pain1.jpg "image_tooltip")
+![hand ergonomics](/images/hand-ergonomics.jpg "image_tooltip")
 
 
 

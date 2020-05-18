@@ -598,6 +598,9 @@ hr {
   margin-bottom: 3.6em;
   background-color: #c3c3c3; }
 
+img {
+  max-width: 100%; }
+
 .pagination {
   padding: 0.809em 2% 1.61em 2%;
   display: flex; }
