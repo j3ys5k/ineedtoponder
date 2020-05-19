@@ -108,15 +108,18 @@ h1 {
 h2 {
   font-size: 30px;
   font-size: 1.875rem;
-  line-height: 39px;
+  line-height: 42px;
   font-weight: normal;
-  color: #3c3c3b; }
+  color: #3c3c3b;
+  margin-top: 1.2em; }
 
 h3 {
   font-size: 23px;
   font-size: 1.4375rem;
   font-weight: normal;
-  color: #3c3c3b; }
+  color: #3c3c3b;
+  line-height: 33px;
+  margin-top: 1.2em; }
 
 b, strong, .strong {
   font-weight: 700; }

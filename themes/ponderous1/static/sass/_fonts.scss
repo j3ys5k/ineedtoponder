@@ -142,9 +142,10 @@ h1 {
 }
 h2 {
   @include font-size(30); //24
-  line-height:39px;
+  line-height:42px;
   font-weight:normal;
   color:$dark-gray;
+  margin-top:1.2em;
   //color:$bluegreen;
  
 }
@@ -152,6 +153,8 @@ h3 {
     @include font-size(23); //18
     font-weight:normal;
     color:$dark-gray;
+    line-height:33px;
+    margin-top:1.2em;
     //color:$bluegreen;
 }
 h4{

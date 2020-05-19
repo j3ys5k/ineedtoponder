@@ -2,7 +2,7 @@
 seotitle: Solutions for Back Pain, Tension and Other Pain
 title: Solutions for Back Pain, Tension and Other Pain
 author: James Semczuk
-date: 2020-05-18T00:00:00.000Z
+date: 2020-05-20T00:00:00.000Z
 description: A guide to what is effective in regards to back pain and tension. Compiled from years of research and first hand experience.
 images: 
 - /images/solutions-backpain.jpg
@@ -59,7 +59,7 @@ You want to keep the cycle of all three things going. If I don't do one of the t
 
 ### What a routine might look like.
 
-So the overall approach would look like this. I’ve been sitting for about 30 mins. I get up and use a massage ball to work on 1- 2 trigger points near my most aggravated areas for about 30 seconds each. Then I’ll pick a problem area to do about 40 reps of a mobilization on each (while doing breathing and going into a meditative state from qi gong). Then back to work. Repeat at least once every 30 mins for best results. When really jacked up do every 20 mins. You don’t need to repeatedly work trigger points each time. I’ve found 1-3 times per day seems to be sufficient. (I now also include some progressive muscle relaxation in this routine for my hips / neck / jaw as well. See below)
+So the overall approach would look like this. I’ve been sitting for about 30 mins. I get up and use a massage ball to work on 1- 2 trigger points near my most aggravated areas for about 30 seconds each. Then I’ll pick a problem area to do about 40 reps of a mobilization on each (while doing breathing and going into a meditative state from qigong). Then back to work. Repeat at least once every 30 mins for best results. When really jacked up do every 20 mins. You don’t need to repeatedly work trigger points each time. I’ve found 1-3 times per day seems to be sufficient. (I now also include some progressive muscle relaxation in this routine for my hips / neck / jaw as well. See below)
 
 ## Don't Just Sit There ($40)
 
@@ -71,7 +71,7 @@ This program tries to find a solution to the problem of how to integrate movemen
 
 Their basic approach is to switch positions as often as possible. Ideally you would have a laptop and some space and furniture to sit and stand. Every time you begin to get tense you switch positions. You cycle through as many positions as possible including but not limited to sitting on the floor with legs out, kneeling, cross legged, laying down, sitting, standing, etc.I’ve tried it at home and it seems to be an improvement over simply sitting or standing in one position for long periods. I was cycling through about 5-6 positions over the course of an hour and I never really got the chance to tense up. If you couple this approach with the PainScience model, I see it is a really really powerful system. The problems come in in how to fully do it in an office environment unless you have the right space and equipment. Despite this, there are so many useful and sneaky and subtle tips to work in movement (especially at standing desks) I still recommend it. Especially since in the future we will have more mobility with laptops.
 
-### Alignment and Ergonomics
+## Alignment and Ergonomics
 
 Along with making sure you move, it’s good to make sure that when you are not moving you aren’t putting yourself in positions that aggravate pain. Alignment and ergonomics is important, but usually not as important as moving enough. Postural alignment is a pretty deep subject and beyond the scope of this article… but in general if you align yourself and your workstation similar to the following images, it should take care of a lot of the biggest offenders in terms of posture related pain problems. The numbers aren’t so important as having the actual lines line up with the points on your body.
 
@@ -97,17 +97,17 @@ But If I was going to recommend one type of physical therapist, it would be MAT 
 
 The main con for them is that they are expensive. But most treatment is. But if you are going to pay for something in regards to strengthening, this is probably your best bet in terms of a permanent solution. And you’ll need less sessions the longer you do it.
 
-## Combine it All Together with Qi Gong
+## Combine it All Together with Qigong
 
 Doing all of these movements will help, but I’ve found they tend to plateau over time unless you add breathing ,meditative states and you are feeling and releasing your feelings. The tension in your body is partially caused by external factors like lack of movement, posture and repetitions of bad movement.  But another huge portion is that it’s a reflection of your mental and emotional state.  Unless you are confronting these things as well, you will probably never fully be able to get rid of your pain and tension.  
 
-With Qi Gong, often, 10% of your results will be from the movement, 30% will be from the breathing, and 60% will be the meditative state you can get in while you are doing it.  This relaxes you much much more deeply and on a much more fundamental level than other methods.
+With qigong, often, 10% of your results will be from the movement, 30% will be from the breathing, and 60% will be the meditative state you can get in while you are doing it.  This relaxes you much much more deeply and on a much more fundamental level than other methods.
 
-### What is Qi Gong and Why is it Effective?
+### What is Qigong and Why is it Effective?
 
-It turns out there is already a system that focuses on mobilizing the body to get rid of pain and tension...while also incorporating breathing, meditations and emotions.  It’s called Qi Gong. Qi gong seems to be the root of nearly all body based systems like yoga.  But is significantly more powerful and comprehensive than many common systems.
+It turns out there is already a system that focuses on mobilizing the body to get rid of pain and tension...while also incorporating breathing, meditations and emotions.  It’s called Qigong. Qigong seems to be the root of nearly all body based systems like yoga.  But is significantly more powerful and comprehensive than many common systems.
 
-Why is this?  It’s because it takes a really holistic approach to the process. With Qi Gong you get all of these in one place:
+Why is this?  It’s because it takes a really holistic approach to the process. With gigong you get all of these in one place:
 
 * Mobilizations
 * Breathing
@@ -130,11 +130,11 @@ The things that truly make it powerful though, are the sections on standing medi
 
 ### QiGong Tai Chi Chuan and Standing Meditations
 
-There are a series of standing meditations in Qigong and Tai Chi called ‘standing post’ or [Zhan Zhuang](https://en.wikipedia.org/wiki/Zhan_zhuang), or ‘warrior postures’.. Many in qi gong and internal martial arts have been doing these for centuries. You maintain a certain posture and try to relax any non essential muscles by scanning the body and intending for each section to relax. The more you relax the heavier you can feel yourself become and the more weight goes into your thighs. The added benefit is that you also strengthen postural muscles. Basically you learn to let go of what you don’t need and strengthen what you do. It also helps to correct muscle imbalances. It creates a positive feedback loop that allows you to relax further and further and increases your energy levels as well as the flow of the energy. The less tension, the less blockage to your energy. The less baggage you have to carry.
+There are a series of standing meditations in Qigong and Tai Chi called ‘standing post’ or [Zhan Zhuang](https://en.wikipedia.org/wiki/Zhan_zhuang), or ‘warrior postures’.. Many in qigong and internal martial arts have been doing these for centuries. You maintain a certain posture and try to relax any non essential muscles by scanning the body and intending for each section to relax. The more you relax the heavier you can feel yourself become and the more weight goes into your thighs. The added benefit is that you also strengthen postural muscles. Basically you learn to let go of what you don’t need and strengthen what you do. It also helps to correct muscle imbalances. It creates a positive feedback loop that allows you to relax further and further and increases your energy levels as well as the flow of the energy. The less tension, the less blockage to your energy. The less baggage you have to carry.
 
 ### Feeling Your Feelings
 
-There’s no getting around your feelings. Whatever you resist persists. One of the best things about qigong is that in the advanced stages, it gives you a framework for preparing the body to emotionally release. Qi Gong will help build up and circulate your energy and bring emotions to the surface, and then a specific section called ‘Five Animal Play’ teaches you how to express them.. In the same way pressure must be in a hose before you can turn on the spigot and water will come out, qi gong helps build up the pressure as well as release. In other systems I’ve tried, usually they have one or the other but not both.
+There’s no getting around your feelings. Whatever you resist persists. One of the best things about qigong is that in the advanced stages, it gives you a framework for preparing the body to emotionally release. Qigong will help build up and circulate your energy and bring emotions to the surface, and then a specific section called ‘Five Animal Play’ teaches you how to express them.. In the same way pressure must be in a hose before you can turn on the spigot and water will come out, qigong helps build up the pressure as well as release. In other systems I’ve tried, usually they have one or the other but not both.
 
 ## Diet
 
