@@ -161,7 +161,7 @@ Acupressure is also quite good at releasing tension.
 
 ### The Five Hindrances
 
-I was really surprised to learn there were already some ancient writings on roadblocks you’ll encounter and how to overcome them.  When I first started nobody told me anything about common roadblocks or how to deal with them. In Buddhism, you have the Five Hindrances. I think they are useful but perhaps a little too broad for beginners, but still good to be aware of as you grow your practice.  
+I was really surprised to learn there were already some ancient writings on roadblocks you’ll encounter and how to overcome them.  When I first started nobody told me anything about common roadblocks or how to deal with them. In Buddhism, you have the [Five Hindrances](https://en.wikipedia.org/wiki/Five_hindrances). I think they are useful but perhaps a little too broad for beginners, but still good to be aware of as you grow your practice.  
 
 Below I’ve listed some of the more common specific roadblocks I see people having and how to approach them. 
 
