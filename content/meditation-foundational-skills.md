@@ -3,7 +3,7 @@ seotitle: Meditation Foundational Skills
 title: Meditation Foundational Skills
 author: James Semczuk
 date: 2020-05-27T00:00:00.000Z
-description: Most people come into meditation sideways without much foundational knowledge. Here's all the key building blocks I wish I knew starting out.
+description: Most people come into meditation sideways without much foundational knowledge. Here's all the key building blocks I wish I had known starting out.
 images: 
 - /images/fat-buddha.jpg
 ---
@@ -13,15 +13,15 @@ images:
 
 ## Purpose of This Article
 
-*Meditation is a vast subject, and most people come into it sideways without much foundational knowledge.  They encounter a lot of roadblocks really fast, and then they become overwhelmed and don’t know what to do.   This article attempts to tackle some of the key foundational concepts and skills you need to have a better grasp on starting a basic practice. These skills can be applied to any style.  It also shows some of the basic roadblocks and how to avoid them. It's everything I wish I had known starting out.*  
+*Meditation is a vast subject, and most people come into it sideways without much foundational knowledge. They encounter a lot of roadblocks really fast, and then they become overwhelmed and don’t know what to do.  This article attempts to tackle some of the key foundational concepts and skills you need to have a better grasp on starting a basic practice. These skills can be applied to any style.  It also shows some of the basic roadblocks and how to avoid them. It's everything I wish I had known starting out.*  
 
 ## A Basic Framework
 
 Let’s make sure we’re on the same page with our definition of meditation and what it’s doing.  There’s a ton of different styles of meditation, but most of them revolve around a few key things.  You have a conscious awareness of some kind.  And in front of that awareness, a theater of thoughts, emotions, sensations and visualizations are happening all the time.  The real you is that awareness, not all the things appearing in the theater before it.
 
-### Thoughts vs Thinking
+### Thoughts vs. Thinking
 
-Thoughts can come in the form of words, speech, images, or a myriad of other sensations which in turn are usually triggering emotions. In particular there is an endless bubbling of thoughts that occur all the time called the “inner dialogue”.  Sometimes it’s a monologue and talking at you, other times you may be interacting back with it.  The problem with the inner dialogue is 99.9% of the time it’s not useful.  It is usually full of judgement, repetative, and not adding anything positive or productive.  Because your subconscious mind will automatically  buy into and emotionally react to every piece of that constant chatter, it eats up an incredible amount of energy.
+Thoughts can come in the form of words, speech, images, or a myriad of other sensations which in turn are usually triggering emotions. In particular there is an endless bubbling of thoughts that occur all the time called the “inner dialogue”.  Sometimes it’s a monologue and talking at you, other times you may be interacting back with it.  The problem with the inner dialogue is 99.9% of the time it’s not useful.  It is usually full of judgement, repetitive, and not adding anything positive or productive.  Because your subconscious mind will automatically  buy into and emotionally react to every piece of that constant chatter, it eats up an incredible amount of energy.
 
 Most of the time “thinking” just involves us going round and round in pointless loops with the inner dialogue. We often aren’t aware how we’ve gotten lost and caught up in it and we have very little ability to stop it. 
 
@@ -62,7 +62,7 @@ Close your eyes and...
 1. tell me 5 things you can hear right now
 2. tell me 5 things you can touch
 3. tell me 5 things you smell (maybe get up and smell things)
-4. don't worry about tasting :D ,...
+4. don't worry about tasting :D 
 
 Now open your eyes.  Do you see how you are basically "tuning" into different sensory sensations that are always there in the background?  It feels a little bit different than what you are normally tuning into right?
 
@@ -102,6 +102,7 @@ A lot of times it feels like it is both coming from a place in the body and not 
 The point of these exercises was to show you what it feels like to have your attention in different spots. Most of these would fall into the category of “concentration based” meditation, where you set your attention onto some object instead of your thoughts and rest it there. Whenever your attention goes to something else, gently let go of that thing and rest the attention back on the object. The most common object is the breath. But the object can be anything, inside or outside the body or even feelings or sensations you aren’t currently feeling. 
 
 ## On Acceptance
+
 Another incredibly powerful tool is acceptance. With meditation you do not want to be in a fight or flight state. You’re not trying to fight against or run away from what’s happening. You have to fully accept the way things are and just exist within that. Whatever you resist persists. Paradoxically, accepting the situation as it is, without trying to change it, allows you to transcend it because you remove all the resistance. It is an antidote to aversion and judgment. (see the section on dealing with emotions for more applications.)
 
 ### Acceptance Exercise:
@@ -183,7 +184,7 @@ Start noticing any feelings of discomfort you may have from doing your meditatio
 
 As long as the feeling is “interrupting”  continue to put your awareness on the feelings that come up until they work themselves out and it feels easy to go back to your object such as breathing. 
 
-### Too Much Judging
+### Too Much Judgement
 
 It’s best to drop any judgments. But at first it’s usually easier to deal with the emotions that judgements trigger.  If you start to feel like you are beating yourself up or getting angry that you can't do it. That's really another emotion. Feel the feelings that judgment creates in the same way as the last section.   You can also use self forgiveness and gratitude to reframe the thoughts, but eventually it’s best to move beyond having to use thinking altogether.
 
@@ -225,7 +226,7 @@ Sometimes certain styles such as mindfulness, or concentration based styles can 
 
 It surprises me many times how much people don’t consider the roadblock they are having as something they can ask questions about and troubleshoot. There are many people out there further down the path. If you are getting stuck in meditation and can’t make progress, most likely someone else has gone through the same thing and found a way to overcome it. Ask on forums or even find a good teacher locally or online. I tend to use [/r/meditation](https://www.reddit.com/r/Meditation/) or [/r/streamentry](https://www.reddit.com/r/streamentry) but there are many more as well as local teachers or meetup groups in your area.
 
-## Passive Vs. Active Meditation
+## Passive vs. Active Meditation
 
 All this being said, there are forms of meditation where you actively try to accomplish things. IMO it’s much better to develop a foundation in being passive first because it’s only in that state of mind where you are unattached to the outcome, in non judgement, not doubting, and your attention is not distracted that you can make more active methods effective. Otherwise you tend to force and become too attached to the outcome. It needs to be a type of doing without any kind of resistance or forcing.  
 
