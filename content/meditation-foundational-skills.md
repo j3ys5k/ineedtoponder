@@ -295,13 +295,13 @@ While I think learning meditation properly is a skillset that is so massively us
 
 To develop yourself to an elite level of consciousness, you end up having to confront all your traumas and fears. (Although some paths have ways of making this  smoother than others and it also depends on the person.)   Sometimes doing meditation with certain medical / mental health conditions will make your mental state way worse.  
 
-But at the end of the day It really depends.  I encourage everyone to try it, but also buyer beware.  Do not be afraid to back off meditation and seek out advice from qualified teachers, as well as  therapy and medical treatment if things become too intense.  
+But at the end of the day It really depends.  I encourage everyone to try it, but also buyer beware. Do not be afraid to back off meditation and seek out advice from qualified teachers, as well as  therapy and medical treatment if things become too intense.  
 
 ## Okay I Read All of This, What Do I Do Next?
 
-Now that you’ve read this article and got all the foundational concepts....what should you do next?  I’d recommend two things.  
+Now that you’ve read this article and got all the foundational concepts...what should you do next?  I’d recommend these three things.  
 
-1. Start with Qigong.   Flowing Zen is the best place for it, they have a [free class](https://flowingzen.com/21150/learn-qigong-online-from-me-for-free-during-the-covid-19-crisis/) right now due to the coronavirus.  Later if you can do the 101 class.  Try to build up to 15 mins twice a day.  
+1. Start with Qigong. Flowing Zen is the best place for it, they have a [free class](https://flowingzen.com/21150/learn-qigong-online-from-me-for-free-during-the-covid-19-crisis/) right now due to the coronavirus.  Later if you can do the 101 class. Try to build up to 15 mins twice a day.  
 
 2. Try the [beginners guide](https://www.reddit.com/r/streamentry/wiki/beginners-guide) in this subreddit - Stream Entry.  They have a lot of links to great books and resources.  Many of the practitioners there have tons of experience and it’s a good place to ask questions and find quality answers or even teachers.  The guide recommends starting out with doing a couple forms of meditation together that I particularly find useful.  Muscle relaxing, concentration and metta. Metta is a really important complement to concentration if you want emotional benefits.  Sometimes concentration can leave you feeling too detached.  Metta helps you feel human again and is incredible for self healing by focusing on feelings of love for yourself and others. (If this sounds corny to you then that’s a sign you need to try it even more).   These three are great to pair together because they compliment each other and fill in so many gaps.  From there you can get into more advanced stuff. Try to get up to 15 mins twice a day.  
 
