@@ -224,7 +224,7 @@ Sometimes certain styles such as mindfulness, or concentration based styles can 
 
 ### Not Asking Questions When Stuck
 
-It surprises me many times how much people don’t consider the roadblock they are having as something they can ask questions about and troubleshoot. There are many people out there further down the path. If you are getting stuck in meditation and can’t make progress, most likely someone else has gone through the same thing and found a way to overcome it. Ask on forums or even find a good teacher locally or online. I tend to use [/r/meditation](https://www.reddit.com/r/Meditation/) or [/r/streamentry](https://www.reddit.com/r/streamentry) but there are many more as well as local teachers or meetup groups in your area.
+It surprises me just how little people seem to realize they can ask questions about roadblocks they are having. There are many people out there further down the path. If you are getting stuck in meditation and can’t make progress, most likely someone else has gone through the same thing and found a way to overcome it. Ask on forums or even find a good teacher locally or online. I tend to use [/r/meditation](https://www.reddit.com/r/Meditation/) or [/r/streamentry](https://www.reddit.com/r/streamentry) but there are many more as well as local teachers or meetup groups in your area.
 
 ## Passive vs. Active Meditation
 
@@ -234,13 +234,15 @@ However a good example of an active meditation that is fantastic for beginners i
 
 ### Intent
 
-Intent is your ability to command something to happen.  It’s also a type of doing without any internal resistance or forcing.  It simply happens and that’s it. The more you develop dropping doubt, expectations, accepting discomfort, and unwavering attention, and spend more and more time with inner silence (your thoughts as quiet as possible)  the more energy you will  accrue.  The more energy and ability to focus your attention you accrue the more powerful your intent becomes, and the more you are able to command your mind to do what you want.  It’s more of an advanced topic but it’s something to be aware of, and can be harnessed later on.  
+Intent is your ability to command something to happen.  It’s also a type of doing without any internal resistance or forcing. It simply happens and that’s it. The more you develop dropping doubt, expectations, accepting discomfort, and unwavering attention, and spend more and more time with inner silence (your thoughts as quiet as possible)  the more energy you will  accrue. The more energy and ability to focus your attention the more powerful your intent becomes. From there the more you are able to command your mind to do what you want. It’s more of an advanced topic but it’s something to be aware of, and can be harnessed later on.  
 
 Some forms of meditation focus on building intent too early without first building the foundational skills. 
 
+A good example of this is using affirmations.  Try usings affirmations when you are in your everyday stay of mind vs. when you are a deep meditative state.  What difference do you feel?
+
 ## Ego vs. Self Importance
 
-The concept of the Ego can be confusing because of conflicting definitions. Many forms of meditation aim to eventually dissolve your ego as well as dissolving your sense of self. While this is a giant topic on it’s own, a big takeaway is to instead get rid of your sense of self importance. It’s less important in the beginning stages to worry about getting rid of your sense of self than it is to start getting rid of your sense of self importance.   
+The concept of the Ego can be confusing because of conflicting definitions. Many forms of meditation aim to eventually dissolve your ego as well as dissolving your sense of self. While this is a giant topic on it’s own, a big takeaway is to instead strive get rid of your sense of self importance. It’s less important in the beginning stages to worry about getting rid of your sense of self than it is to start getting rid of your sense of self importance.   
 
 We spend an extraordinary amount of time and energy feeding our identity and sense of self importance.  There are many exercises you can get into to do work on this but it’s beyond the scope of this article. In general, just know the less you are attached to your need for self importance, the more free you are from suffering.  The more freedom you have to be whatever you need to be in the present moment to be effective because you’re not worried how people view you or that you might look strange. 
 
@@ -248,9 +250,11 @@ Not developing this area is how someone can be an advanced meditator and yet sti
 
 ## Flow States 
 
-Sometimes if you find proper meditation too difficult, try getting into a [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)). A flow state is when you are doing something and become so immersed in it, you just seem to get lost in it. It’s the same thing as being “in the zone”.  You may notice your thoughts have really slowed down and you are fully in the moment.  Usually this is an activity you find really engrossing. It can be a sport, a creative activity, or even cleaning.  
+Sometimes if you find proper meditation too difficult, try getting into a [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)). A flow state is when you are doing something and become so immersed in it, you just seem to get lost in it. It’s the same thing as being “in the zone”. You may notice your thoughts have really slowed down and you are fully in the moment. Usually this is an activity you find really engrossing, or challenging in a good way. It can be a sport, a creative activity, or even cleaning.  
 
-The more time you can spend in flow states, usually the better you feel. Meditation is more powerful but flow states can give you a good chunk of the benefits without having to do as much work.  The more time you spend in flow states the easier it is to transition into meditation proper. [Here](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) is a good book on this topic. 
+The more time you can spend in flow states, usually the better you feel. Meditation is more powerful but flow states can give you a good chunk of the benefits without having to do as much work. The more time you spend in flow states the easier it is to transition into meditation proper. [Here](https://www.amazon.com/Flow-Psychology-Experience-Perennial-Classics/dp/0061339202) is a good book on this topic.
+
+Also of note is that activities that are often flow states for you are also ones that are in your strengths. The more you can be in your strengths the more likely you'll be in some sort of flow. 
 
 ## Things That Make Meditation Easier
 
@@ -281,9 +285,9 @@ Something about making sounds makes it way easier to focus.  A simple technique 
 
 ## Start with Qigong
 
-I really can’t say enough good things about [Qigong](https://flowingzen.com/start-here/).  It’s sort of  a form of moving yoga, but much more potent and powerful. It combines body movement, breathing, being in nature, sometimes sounds.   It’s much easier than going straight into sitting meditation and you get tangible results way faster. I highly recommend that beginners start with qigong before sitting meditation. A lot of the skills you learned in this article will be developed further doing qigong which you can then take into sitting meditation proper.   
+I really can’t say enough good things about [Qigong](https://flowingzen.com/start-here/).  It’s sort of  a form of moving yoga, but much more potent and powerful. It combines body movement, breathing, being in nature, muscle relaxation, a bit of metta, and sometimes sounds and emotional releasing.   It’s much easier than going straight into sitting meditation and you get tangible results way faster. I highly recommend that beginners start with qigong before sitting meditation. A lot of the skills you learned in this article will be developed further doing qigong which you can then take into sitting meditation proper.   
 
-Because of the body movement and the way it builds your energy, it's much much easier to get positive shifts in mood and well being with qigong quickly. With sitting meditation it can take a really long time before you see any big benefits and changes in stress levels, mood and energy.  (see the where to start section for more).
+Because of the body movement and the way it builds your energy, it's much much easier to get positive shifts in mood and well being with qigong quickly. This in turn creates a postivie feedback loop giving you more energy to go further. With sitting meditation it can take a really long time before you see any big benefits and changes in stress levels, mood and energy. (see the where to start section for more).
 
 ## Caveats - Meditation isn’t Always Positive
 
