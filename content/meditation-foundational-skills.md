@@ -5,7 +5,7 @@ author: James Semczuk
 date: 2020-05-27T00:00:00.000Z
 description: Most people come into meditation sideways without much foundational knowledge. Here's all the key building blocks I wish I knew starting out.
 images: 
-- /images/solutions-backpain.jpg
+- /images/fat-buddha.jpg
 ---
 
 ![Smiling Buddha Statue](/images/fat-buddha.jpg)
