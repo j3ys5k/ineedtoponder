@@ -7,6 +7,6 @@ Paginate = 10
 [params]
   description="A blog dedicated to the power of ideas, the importance of clarity, the necessity of nuance, and a love for deeply thinking about the world."
   images= ["/images/site-featured-image.png"]
-  title ="I need to Ponder"
+  title ="I Need to Ponder"
 [taxonomies]
   series="series"
