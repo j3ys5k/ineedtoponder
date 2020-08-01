@@ -15,6 +15,9 @@
 	<meta name="description" content="{{.Params.Description}}">
 	{{- end }}
 
+	<!-- Analytics -->
+	{{ template "_internal/google_analytics.html" . }}
+
 	<!-- Open Graph stuff -->
 	{{ template "_internal/opengraph.html" . }}
 

@@ -3,6 +3,7 @@ title = "I Need to Ponder"
 theme = "ponderous1" 
 MetaDataFormat = "yaml"
 Paginate = 10
+googleAnalytics = "UA-174129806-1"
 
 [params]
   description="A blog dedicated to the power of ideas, the importance of clarity, the necessity of nuance, and a love for deeply thinking about the world."
