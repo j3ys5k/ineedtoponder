@@ -8,10 +8,16 @@
       <p class="description">{{.Params.Description}}</p>
       <p class="author">By {{.Params.Author}}</p>
       <p class="date">{{.Date.Format "Jan 2, 2006"}}</p>
+
       {{.Content}}
       <hr>
+      <!-- Back to Top link -->
+      <div class="back-to-top-wrapper">
+        <a href="#top" class="back-to-top-link" aria-label="Scroll to Top"><i class="arrow up"></i></a>
+      </div>
     </div>
   </div>
+
 </section>
 
 {{ partial "footer" . }}

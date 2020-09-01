@@ -6,17 +6,24 @@ date: 2020-05-20T00:00:00.000Z
 description: A guide to what is effective in regards to back pain and tension. Compiled from years of research and first hand experience.
 images: 
 - /images/solutions-backpain.jpg
+featuredImage: /images/solutions-backpain.jpg
 ---
 
-![Back Pain](/images/solutions-backpain.jpg)
+![Woman Massaging Her Painful Shoulder](/images/solutions-backpain.jpg)
 
-## The Purpose of This Article
+## Purpose of This Article
 
-*Although I use the word ‘Back’ Pain… I’m going to be using it as an umbrella term for muscle, neck, and shoulder pain as well. For years now I’ve struggled with a lot of pain and tension largely from not moving enough. And so have a lot of you. Nearly everyone I’ve talked to who works a desk job at some point has been troubled with back, neck, shoulder, wrist pain, or just felt crappy from being immobile for long periods.*
+  *I’ve seen so many people just resign themselves to living with pain (“I guess I’m just old now!”), or worse chase their tails trying ineffective and often expensive solutions only to end up right back where they started. I’ve been researching it for a long time and I wanted to put together this condensed guide for others to easily get to some of the more effective (and cost effective) solutions, without having to wade through all the misinformation out there. Unfortunately there’s not really a pre-defined universally agreed process that someone can go through who has back pain. So this article will attempt to put together a practical working solution until we find out something better.* 
 
-*I’ve seen so many people just resign themselves to living with pain (“I guess I’m just old now!”), or worse chase their tails trying ineffective and often expensive solutions only to end up right back where they started. I’ve been researching it for a long time and I wanted to put together this condensed guide for others to easily get to some of the more effective (and cost effective) solutions, without having to wade through all the misinformation out there. Unfortunately there’s not really a pre-defined universally agreed process that someone can go through who has back pain. So this article will attempt to put together a practical working solution until we find out something better.*
+  {{< tableofcontents >}}
 
-*The solutions in this article are primarily intended for people who have NOT suffered an injury. Basically if you were otherwise healthy, and then started to get aches and pain and muscle tension and you are doing very little body movement each day, this article is for you. Your pain and tension is probably caused by lack of movement and a few other related things. If you suffered an injury like a car accident or sports injury and are getting pain, you may require a different approach with a professional. (But some of these approaches may complement and overlap with your treatment!)*
+## Disclaimer
+
+   Although I use the word ‘Back’ Pain… I’m going to be using it as an umbrella term for muscle, neck, and shoulder pain as well. For years now I’ve struggled with a lot of pain and tension largely from not moving enough. And so have a lot of you. Nearly everyone I’ve talked to who works a desk job at some point has been troubled with back, neck, shoulder, wrist pain, or just felt crappy from being immobile for long periods.
+
+  The solutions in this article are primarily intended for people who have NOT suffered an injury. Basically if you were otherwise healthy, and then started to get aches and pain and muscle tension and you are doing very little body movement each day, this article is for you. Your pain and tension is probably caused by lack of movement and a few other related things. If you suffered an injury like a car accident or sports injury and are getting pain, you may require a different approach with a professional. (But some of these approaches may complement and overlap with your treatment!)
+
+
 
 ## Forget Everything You Currently Know About Back Pain!
 
@@ -27,6 +34,8 @@ So much of what’s out there is straight up false information that I encourage 
 Otherwise people will tend to fixate on common things they’ve heard repeated throughout our culture that don’t actually work and it just gets in the way. It really is that bad.
 
 And what’s even worse than that, many medical professionals don’t know what works either! They often don’t keep up with the science, are also just as prone to the cultural hearsay as all humans are, and have vested interests in you staying with their (often expensive) approach. You may go to a host of professionals such as chiropractors or physical therapists that all tell you different and contradictory information. Where can you turn?
+
+
 
 ## Painscience.com Might be the Best Overall Site on the Internet About Pain There Is
 

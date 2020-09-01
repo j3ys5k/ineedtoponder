@@ -11,3 +11,9 @@ googleAnalytics = "UA-174129806-1"
   title ="I Need to Ponder"
 [taxonomies]
   series="series"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = true
+    startLevel = 2

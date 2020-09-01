@@ -6,14 +6,17 @@ date: 2020-05-27T00:00:00.000Z
 description: Most people come into meditation sideways without much foundational knowledge. Here's all the key building blocks I wish I had known starting out.
 images: 
 - /images/fat-buddha.jpg
+featuredImage: /images/fat-buddha.jpg
+
 ---
 
 ![Smiling Buddha Statue](/images/fat-buddha.jpg)
 
-
 ## Purpose of This Article
 
-*Meditation is a vast subject, and most people come into it sideways without much foundational knowledge. They encounter a lot of roadblocks really fast, and then they become overwhelmed and don’t know what to do.  This article attempts to tackle some of the key foundational concepts and skills you need to have a better grasp on starting a basic practice. These skills can be applied to any style.  It also shows some of the basic roadblocks and how to avoid them. It's everything I wish I had known starting out.*  
+*Meditation is a vast subject, and most people come into it sideways without much foundational knowledge. They encounter a lot of roadblocks really fast, and then they become overwhelmed and don’t know what to do.  This article attempts to tackle some of the key foundational concepts and skills you need to have a better grasp on starting a basic practice. These skills can be applied to any style.  It also shows some of the basic roadblocks and how to avoid them. It's everything I wish I had known starting out.*
+
+{{< tableofcontents >}}
 
 ## A Basic Framework
 

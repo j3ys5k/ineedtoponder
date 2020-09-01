@@ -584,7 +584,8 @@ a {
   overflow-wrap: break-word; }
 
 .main-content {
-  padding: 1.4em 0 1.4em 0; }
+  padding: 1.4em 0 1.4em 0;
+  position: relative; }
 
 .description {
   margin-top: 0;
@@ -610,6 +611,58 @@ hr {
 
 img {
   max-width: 100%; }
+
+#TableOfContents ul {
+  list-style: none;
+  padding-left: 0; }
+#TableOfContents li {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: bold; }
+  #TableOfContents li ul {
+    margin-top: 0; }
+    #TableOfContents li ul li {
+      font-weight: normal; }
+      #TableOfContents li ul li ul {
+        padding-left: 40px; }
+
+.back-to-top-wrapper {
+  position: absolute;
+  top: 100vh;
+  right: 12px;
+  bottom: -5em;
+  width: 3em;
+  pointer-events: none; }
+
+.back-to-top-link {
+  position: fixed;
+  position: sticky;
+  pointer-events: all;
+  top: calc(100vh - 5rem);
+  display: inline-block;
+  text-decoration: none;
+  font-size: 0.75rem;
+  font-weight: bold;
+  color: black;
+  text-transform: uppercase;
+  line-height: 3rem;
+  text-align: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  background-color: #d2d8dd;
+  padding: 6px 1px 0 0;
+  opacity: 0.5; }
+
+.arrow {
+  border: solid black;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 5px; }
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg); }
 
 .pagination {
   padding: 0.809em 2% 1.61em 2%;
